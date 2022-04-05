@@ -11,7 +11,7 @@ assignees: wesleywh
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behavior (Please include whether this was attempted with "Hosted Mode" or "Dedicated Server Mode"):
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
